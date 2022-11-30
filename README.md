@@ -8,7 +8,8 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 
 </div>
 
-<h2>2021</h2>
+## 2021
+
 <details>
   <summary>Retos</summary>
 
@@ -66,12 +67,121 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center"><a href="./2021/07.md">Ver</a></td>
 			</tr>
+			<tr>
+				<td align="center">08</td>
+				<td><a href="https://2021.adventjs.dev/challenges/08">La locura de las criptomonedas</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><a href="./2021/08.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">09</td>
+				<td><a href="https://2021.adventjs.dev/challenges/09">Agrupando cosas automáticamente</a></td>
+				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
+				<td align="center"><a href="./2021/09.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">10</td>
+				<td><a href="https://2021.adventjs.dev/challenges/10">La máquina del cambio</a></td>
+				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
+				<td align="center"><a href="./2021/10.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">11</td>
+				<td><a href="https://2021.adventjs.dev/challenges/11">¿Vale la pena la tarjeta fidelidad del cine ?</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><a href="./2021/11.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">12</td>
+				<td><a href="https://2021.adventjs.dev/challenges/12">La ruta perfecta para dejar los regalos</a></td>
+				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
+				<td align="center"><a href="./2021/12.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">13</td>
+				<td><a href="https://2021.adventjs.dev/challenges/13">Envuelve regalos con asteriscos</a></td>
+				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center"><a href="./2021/13.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">14</td>
+				<td><a href="https://2021.adventjs.dev/challenges/14">En busca del reno perdido</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><a href="./2021/14.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">15</td>
+				<td><a href="https://2021.adventjs.dev/challenges/15">El salto perfecto</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><a href="./2021/15.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">16</td>
+				<td><a href="https://2021.adventjs.dev/challenges/16">Descifrando los números...</a></td>
+				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center"><a href="./2021/16.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">17</td>
+				<td><a href="https://2021.adventjs.dev/challenges/17">La locura de enviar paquetes en esta época</a></td>
+				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
+				<td align="center"><a href="./2021/17.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">18</td>
+				<td><a href="https://2021.adventjs.dev/challenges/18">El sistema operativo de Santa Claus</a></td>
+				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center"><a href="./2021/18.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">19</td>
+				<td><a href="https://2021.adventjs.dev/challenges/19">¿Qué deberíamos aprender en Platzi ?</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><a href="./2021/19.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">20</td>
+				<td><a href="https://2021.adventjs.dev/challenges/20">¿Una carta de pangramas ? ¡QUÉ!</a></td>
+				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center"><a href="./2021/20.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">21</td>
+				<td><a href="https://2021.adventjs.dev/challenges/21">La ruta con los regalos</a></td>
+				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
+				<td align="center"><a href="./2021/21.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">22</td>
+				<td><a href="https://2021.adventjs.dev/challenges/22">¿Cuántos adornos necesita el árbol ?</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><a href="./2021/22.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">23</td>
+				<td><a href="https://2021.adventjs.dev/challenges/23">¿Puedes reconfigurar las fábricas para no parar de crear regalos ?</a></td>
+				<td align="center"><img src="./assets/Demon.webp" title="Muy difícil" width="33"/></td>
+				<td align="center"><a href="./2021/23.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">24</td>
+				<td><a href="https://2021.adventjs.dev/challenges/24">Comparando árboles de Navidad</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><a href="./2021/24.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">25</td>
+				<td><a href="https://2021.adventjs.dev/challenges/25">El último juego y hasta el año que viene 👋</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><a href="./2021/25.md">Ver</a></td>
+			</tr>
 		</tbody>
 	</table>
 
 </details>
 
-<h2>2022</h2>
+## 2022
+
 <details>
   <summary>Retos</summary>
 
@@ -95,4 +205,5 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 		</tbody>
 	</table>
+
 </details>
