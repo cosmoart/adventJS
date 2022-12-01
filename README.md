@@ -8,7 +8,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 
 </div>
 
-## 2021
+## 2021 (En progreso)
 
 <details>
   <summary>Retos</summary>
@@ -87,7 +87,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">11</td>
-				<td><a href="https://2021.adventjs.dev/challenges/11">¿Vale la pena la tarjeta fidelidad del cine ?</a></td>
+				<td><a href="https://2021.adventjs.dev/challenges/11">¿Vale la pena la tarjeta fidelidad del cine?</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center"><a href="./2021/11.md">Ver</a></td>
 			</tr>
@@ -135,13 +135,13 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">19</td>
-				<td><a href="https://2021.adventjs.dev/challenges/19">¿Qué deberíamos aprender en Platzi ?</a></td>
+				<td><a href="https://2021.adventjs.dev/challenges/19">¿Qué deberíamos aprender en Platzi?</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center"><a href="./2021/19.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">20</td>
-				<td><a href="https://2021.adventjs.dev/challenges/20">¿Una carta de pangramas ? ¡QUÉ!</a></td>
+				<td><a href="https://2021.adventjs.dev/challenges/20">¿Una carta de pangramas? ¡QUÉ!</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center"><a href="./2021/20.md">Ver</a></td>
 			</tr>
@@ -153,13 +153,13 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">22</td>
-				<td><a href="https://2021.adventjs.dev/challenges/22">¿Cuántos adornos necesita el árbol ?</a></td>
+				<td><a href="https://2021.adventjs.dev/challenges/22">¿Cuántos adornos necesita el árbol?</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center"><a href="./2021/22.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">23</td>
-				<td><a href="https://2021.adventjs.dev/challenges/23">¿Puedes reconfigurar las fábricas para no parar de crear regalos ?</a></td>
+				<td><a href="https://2021.adventjs.dev/challenges/23">¿Puedes reconfigurar las fábricas para no parar de crear regalos?</a></td>
 				<td align="center"><img src="./assets/Demon.webp" title="Muy difícil" width="33"/></td>
 				<td align="center"><a href="./2021/23.md">Ver</a></td>
 			</tr>
