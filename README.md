@@ -15,7 +15,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 
 <br/>
 
-  <table width="1000">
+  <table>
 		<thead>
 			<tr>
 				<th>Día</th>
@@ -187,7 +187,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 
 <br/>
 
-  <table width="1000">
+  <table>
 		<thead>
 			<tr>
 				<th>Día</th>
@@ -199,9 +199,9 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 		<tbody>
 			<tr>
 				<td align="center">01</td>
-				<td><a href="https://adventjs.dev/challenges/day-1">Próximamente...</a></td>
+				<td><a href="https://adventjs.dev/challenges/day-1">¡Automatizando envolver regalos de navidad!</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
-				<td align="center"><a href="./2021/day-1/index.js">Ver</a></td>
+				<td align="center"><a href="./2022/01.md">Ver</a></td>
 			</tr>
 		</tbody>
 	</table>
