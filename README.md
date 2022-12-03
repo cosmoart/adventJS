@@ -217,7 +217,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td><a href="https://adventjs.dev/challenges/day-1">¿Cuántas cajas de regalos puede llevar Papá Noel?</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">198</td>
-				<td align="center"><a href="./2022/02.md">Ver</a></td>
+				<td align="center"><a href="./2022/03.md">Ver</a></td>
 			</tr>
 		</tbody>
 	</table>
