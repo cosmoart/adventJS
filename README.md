@@ -193,6 +193,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<th>Día</th>
 				<th>Reto</th>
 				<th>Dificultad</th>
+				<th>Puntuación</th>
 				<th>Solución</th>
 			</tr>
 		</thead>
@@ -201,12 +202,21 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">01</td>
 				<td><a href="https://adventjs.dev/challenges/day-1">¡Automatizando envolver regalos de navidad!</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center">132</td>
 				<td align="center"><a href="./2022/01.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">02</td>
 				<td><a href="https://adventjs.dev/challenges/day-1">Nadie quiere hacer horas extra</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center">132</td>
+				<td align="center"><a href="./2022/02.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">03</td>
+				<td><a href="https://adventjs.dev/challenges/day-1">¿Cuántas cajas de regalos puede llevar Papá Noel?</a></td>
+				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center">198</td>
 				<td align="center"><a href="./2022/02.md">Ver</a></td>
 			</tr>
 		</tbody>
