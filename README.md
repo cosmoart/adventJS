@@ -207,24 +207,38 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">02</td>
-				<td><a href="https://adventjs.dev/challenges/day-1">Nadie quiere hacer horas extra</a></td>
+				<td><a href="https://adventjs.dev/challenges/day-2">Nadie quiere hacer horas extra</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">132</td>
 				<td align="center"><a href="./2022/02.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">03</td>
-				<td><a href="https://adventjs.dev/challenges/day-1">¿Cuántas cajas de regalos puede llevar Papá Noel?</a></td>
+				<td><a href="https://adventjs.dev/challenges/day-3">¿Cuántas cajas de regalos puede llevar Papá Noel?</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">198</td>
 				<td align="center"><a href="./2022/03.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">04</td>
-				<td><a href="https://adventjs.dev/challenges/day-1">Una caja dentro de otra caja y otra...</a></td>
+				<td><a href="https://adventjs.dev/challenges/day-4">Una caja dentro de otra caja y otra...</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
-				<td align="center">170</td>
+				<td align="center">188</td>
 				<td align="center"><a href="./2022/04.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">05</td>
+				<td><a href="https://adventjs.dev/challenges/day-5">Optimizando viajes de Santa</a></td>
+				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
+				<td align="center">220</td>
+				<td align="center"><a href="./2022/05.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">06</td>
+				<td><a href="https://adventjs.dev/challenges/day-6">Creando adornos navideños</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center">160</td>
+				<td align="center"><a href="./2022/06.md">Ver</a></td>
 			</tr>
 		</tbody>
 	</table>
