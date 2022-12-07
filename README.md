@@ -237,8 +237,15 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">06</td>
 				<td><a href="https://adventjs.dev/challenges/day-6">Creando adornos navideños</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
-				<td align="center">160</td>
+				<td align="center">200</td>
 				<td align="center"><a href="./2022/06.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">07</td>
+				<td><a href="https://adventjs.dev/challenges/day-7">Haciendo inventario de regalos</a></td>
+				<td align="center"><img src="./assets/Easy.svg" title="Normal" width="33"/></td>
+				<td align="center">400</td>
+				<td align="center"><a href="./2022/07.md">Ver</a></td>
 			</tr>
 		</tbody>
 	</table>
