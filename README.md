@@ -251,7 +251,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">08</td>
 				<td><a href="https://adventjs.dev/challenges/day-8">¡Necesitamos un mecánico!</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Normal" width="33"/></td>
-				<td align="center">300</td>
+				<td align="center">360</td>
 				<td align="center"><a href="./2022/08.md">Ver</a></td>
 			</tr>
 		</tbody>
