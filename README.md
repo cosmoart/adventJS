@@ -264,4 +264,8 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 		</tbody>
 	</table>
 
+<blockquote>
+		<b>NOTA:</b> El puntaje puede variar debido a que el sistema de puntuación está en constante cambio. Algunos trucos usados en el pasado no funcionan en la actualidad.
+	</blockquote>
+
 </details>
