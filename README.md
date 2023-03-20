@@ -37,7 +37,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center"><a href="./2021/02.md">Ver</a></td>
 			</tr>
-			<!-- <tr>
+			<tr>
 				<td align="center">03</td>
 				<td><a href="https://2021.adventjs.dev/challenges/03">El Grinch quiere fastidiar la Navidad</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
@@ -48,7 +48,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td><a href="https://2021.adventjs.dev/challenges/04">¡Es hora de poner la navidad en casa!</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center"><a href="./2021/04.md">Ver</a></td>
-			</tr> -->
+			</tr>
 			<tr>
 				<td align="center">05</td>
 				<td><a href="https://2021.adventjs.dev/challenges/05">Contando los días para los regalos</a></td>
