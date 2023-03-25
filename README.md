@@ -55,7 +55,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center"><a href="./2021/05.md">Ver</a></td>
 			</tr>
-			<!-- <tr>
+			<tr>
 				<td align="center">06</td>
 				<td><a href="https://2021.adventjs.dev/challenges/06">Rematando los exámenes finales</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
@@ -67,7 +67,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center"><a href="./2021/07.md">Ver</a></td>
 			</tr>
-			<tr>
+			<!-- <tr>
 				<td align="center">08</td>
 				<td><a href="https://2021.adventjs.dev/challenges/08">La locura de las criptomonedas</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
