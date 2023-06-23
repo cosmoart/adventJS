@@ -121,7 +121,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center"><a href="./2021/16.md">Ver</a></td>
 			</tr>
-			<!-- <tr>
+			<tr>
 				<td align="center">17</td>
 				<td><a href="https://2021.adventjs.dev/challenges/17">La locura de enviar paquetes en esta época</a></td>
 				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
@@ -139,7 +139,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center"><a href="./2021/19.md">Ver</a></td>
 			</tr>
-			<tr>
+			<!-- <tr>
 				<td align="center">20</td>
 				<td><a href="https://2021.adventjs.dev/challenges/20">¿Una carta de pangramas? ¡QUÉ!</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
