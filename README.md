@@ -8,7 +8,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 
 </div>
 
-## 2021 (En progreso)
+## 2021
 
 <details>
   <summary>Retos</summary>
@@ -163,7 +163,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/Demon.webp" title="Muy difícil" width="33"/></td>
 				<td align="center"><a href="./2021/23.md">Ver</a></td>
 			</tr>
-			<!-- <tr>
+			<tr>
 				<td align="center">24</td>
 				<td><a href="https://2021.adventjs.dev/challenges/24">Comparando árboles de Navidad</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
@@ -174,7 +174,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td><a href="https://2021.adventjs.dev/challenges/25">El último juego y hasta el año que viene 👋</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center"><a href="./2021/25.md">Ver</a></td>
-			</tr> -->
+			</tr>
 		</tbody>
 	</table>
 
