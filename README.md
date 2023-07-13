@@ -267,6 +267,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">10</td>
 				<td align="center"><a href="./2022/10.md">Ver</a></td>
 			</tr>
+			<!--
 			<tr>
 				<td align="center">11</td>
 				<td><a href="https://adventjs.dev/es/challenges/2022/11">Papá Noel es Scrum Master</a></td>
@@ -364,7 +365,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
 				<td align="center">10</td>
 				<td align="center"><a href="./2022/24.md">Ver</a></td>
-			</tr>
+			</tr> -->
 		</tbody>
 	</table>
 
