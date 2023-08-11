@@ -274,11 +274,11 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">180</td>
 				<td align="center"><a href="./2022/11.md">Ver</a></td>
 			</tr>
-			<!--<tr>
+			<tr>
 				<td align="center">12</td>
 				<td><a href="https://adventjs.dev/es/challenges/2022/12">Trineos eléctricos, ¡guau!</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
-				<td align="center">10</td>
+				<td align="center">220</td>
 				<td align="center"><a href="./2022/12.md">Ver</a></td>
 			</tr>
 			<tr>
@@ -288,7 +288,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">10</td>
 				<td align="center"><a href="./2022/13.md">Ver</a></td>
 			</tr>
-			<tr>
+			<!--<tr>
 				<td align="center">14</td>
 				<td><a href="https://adventjs.dev/es/challenges/2022/14">El mejor camino</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
