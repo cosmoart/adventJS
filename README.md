@@ -285,7 +285,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">13</td>
 				<td><a href="https://adventjs.dev/es/challenges/2022/13">Backup de los archivos de Papá Noel</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
-				<td align="center">10</td>
+				<td align="center">180</td>
 				<td align="center"><a href="./2022/13.md">Ver</a></td>
 			</tr>
 			<!--<tr>
