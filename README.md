@@ -395,12 +395,12 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><a href="./2023/01.md">Ver</a></td>
 			</tr>
 			<tr>
-				<td align="center">2</td>
+				<td align="center">02</td>
 				<td><a href="https://adventjs.dev/es/challenges/2023/2">Ponemos en marcha la fábrica
 </a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">370</td>
-				<td align="center"><a href="./2023/2.md">Ver</a></td>
+				<td align="center"><a href="./2023/02.md">Ver</a></td>
 			</tr>
 		</tbody>
 </table>
