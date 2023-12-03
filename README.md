@@ -389,18 +389,26 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 		<tbody>
 			<tr>
 				<td align="center">01</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/1">¡Primer regalo repetido!</a></td>
+				<td><a href="https://adventjs.dev/es/challenges/2023/1">🎁 ¡Primer regalo repetido!</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">220</td>
 				<td align="center"><a href="./2023/01.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">02</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/2">Ponemos en marcha la fábrica
+				<td><a href="https://adventjs.dev/es/challenges/2023/2">🏭 Ponemos en marcha la fábrica
 </a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">370</td>
 				<td align="center"><a href="./2023/02.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">03</td>
+				<td><a href="https://adventjs.dev/es/challenges/2023/3">😏 El elfo travieso
+</a></td>
+				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center">360</td>
+				<td align="center"><a href="./2023/03.md">Ver</a></td>
 			</tr>
 		</tbody>
 </table>
