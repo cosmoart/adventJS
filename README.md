@@ -295,21 +295,21 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">300</td>
 				<td align="center"><a href="./2022/14.md">Ver</a></td>
 			</tr>
-			<!--<tr>
+			<tr>
 				<td align="center">15</td>
 				<td><a href="https://2022.adventjs.dev/es/challenges/2022/15">Decorando el árbol de Navidad</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
-				<td align="center">10</td>
+				<td align="center">80</td>
 				<td align="center"><a href="./2022/15.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">16</td>
 				<td><a href="https://2022.adventjs.dev/es/challenges/2022/16">Arreglando las cartas de Papá Noel</a></td>
 				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
-				<td align="center">10</td>
+				<td align="center">160</td>
 				<td align="center"><a href="./2022/16.md">Ver</a></td>
 			</tr>
-			<tr>
+			<!--<tr>
 				<td align="center">17</td>
 				<td><a href="https://2022.adventjs.dev/es/challenges/2022/17">Llevando los regalos en sacos</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
