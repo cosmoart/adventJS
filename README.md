@@ -316,14 +316,14 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">10</td>
 				<td align="center"><a href="./2022/17.md">Ver</a></td>
 			</tr>
-			<!--<tr>
+			<tr>
 				<td align="center">18</td>
 				<td><a href="https://2022.adventjs.dev/es/challenges/2022/18">¡Nos quedamos sin tinta!</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
-				<td align="center">10</td>
+				<td align="center">200</td>
 				<td align="center"><a href="./2022/18.md">Ver</a></td>
 			</tr>
-			<tr>
+			<!--<tr>
 				<td align="center">19</td>
 				<td><a href="https://2022.adventjs.dev/es/challenges/2022/19">Ordenando los regalos</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
