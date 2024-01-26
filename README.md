@@ -330,14 +330,14 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">300</td>
 				<td align="center"><a href="./2022/19.md">Ver</a></td>
 			</tr>
-			<!--<tr>
+			<tr>
 				<td align="center">20</td>
 				<td><a href="https://2022.adventjs.dev/es/challenges/2022/20">Más viajes retadores</a></td>
 				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
 				<td align="center">10</td>
 				<td align="center"><a href="./2022/20.md">Ver</a></td>
 			</tr>
-			<tr>
+			<!--<tr>
 				<td align="center">21</td>
 				<td><a href="https://2022.adventjs.dev/es/challenges/2022/21">Creando la tabla de regalos</a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
