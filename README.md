@@ -358,13 +358,13 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">10</td>
 				<td align="center"><a href="./2022/23.md">Ver</a></td>
 			</tr>
-			<!--<tr>
+			<tr>
 				<td align="center">24</td>
 				<td><a href="https://2022.adventjs.dev/es/challenges/2022/24">El último reto es un laberito</a></td>
 				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
-				<td align="center">10</td>
+				<td align="center">150</td>
 				<td align="center"><a href="./2022/24.md">Ver</a></td>
-			</tr> -->
+			</tr>
 		</tbody>
 	</table>
 
