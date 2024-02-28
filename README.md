@@ -418,5 +418,13 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">270</td>
 				<td align="center"><a href="./2023/04.md">Ver</a></td>
 			</tr>
+			<tr>
+				<td align="center">05</td>
+				<td><a href="https://adventjs.dev/es/challenges/2023/5">🛷 El CyberTruck de Santa
+</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center">150</td>
+				<td align="center"><a href="./2023/05.md">Ver</a></td>
+			</tr>
 		</tbody>
 </table>
