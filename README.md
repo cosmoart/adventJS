@@ -434,5 +434,13 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">250</td>
 				<td align="center"><a href="./2023/06.md">Ver</a></td>
 			</tr>
+			<tr>
+				<td align="center">07</td>
+				<td><a href="https://adventjs.dev/es/challenges/2023/7">📦 Las cajas en 3D
+</a></td>
+				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center">250</td>
+				<td align="center"><a href="./2023/07.md">Ver</a></td>
+			</tr>
 		</tbody>
 </table>
