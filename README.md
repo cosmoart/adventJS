@@ -466,5 +466,13 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center">280</td>
 				<td align="center"><a href="./2023/10.md">Ver</a></td>
 			</tr>
+			<tr>
+				<td align="center">11</td>
+				<td><a href="https://adventjs.dev/es/challenges/2023/11">🎄 Crea tu propio árbol de navidad
+</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center">40</td>
+				<td align="center"><a href="./2023/11.md">Ver</a></td>
+			</tr>
 		</tbody>
 </table>
