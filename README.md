@@ -492,3 +492,31 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 		</tbody>
 </table>
+</details>
+
+
+<br/>
+
+## Más retos
+
+<table align="center">
+	<thead>
+		<tr>
+			<th>
+				<a href="https://github.com/cosmoart/adventJS" target="_blank" rel="noopener noreferrer">
+					<img src="./assets/adventjs.avif" title="AdventJs"/>
+				</a>
+			</th>
+			<th>
+				<a href="https://github.com/cosmoart/codember" target="_blank" rel="noopener noreferrer">
+					<img src="./assets/codember.avif" title="Codember"/>
+				</a>
+			</th>
+			<th>
+				<a href="https://github.com/cosmoart/HalloweenDev" target="_blank" rel="noopener noreferrer">
+					<img src="./assets/halloween.avif" title="HalloweenDev"/>
+				</a>
+			</th>
+		</tr>
+	</thead>
+</table>
