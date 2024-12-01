@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hero image](./assets/hero-image.webp)
+![Hero image](./assets/hero.avif)
 
 # 🎄Mis soluciones a adventJS 🎅
 
@@ -389,14 +389,14 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 		<tbody>
 			<tr>
 				<td align="center">01</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/1">🎁 ¡Primer regalo repetido!</a></td>
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/1">🎁 ¡Primer regalo repetido!</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">220</td>
 				<td align="center"><a href="./2023/01.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">02</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/2">🏭 Ponemos en marcha la fábrica
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/2">🏭 Ponemos en marcha la fábrica
 </a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">370</td>
@@ -404,7 +404,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">03</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/3">😏 El elfo travieso
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/3">😏 El elfo travieso
 </a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">360</td>
@@ -412,7 +412,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">04</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/4">😵‍💫 Dale la vuelta a los paréntesis
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/4">😵‍💫 Dale la vuelta a los paréntesis
 </a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center">270</td>
@@ -420,7 +420,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">05</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/5">🛷 El CyberTruck de Santa
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/5">🛷 El CyberTruck de Santa
 </a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center">150</td>
@@ -428,7 +428,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">06</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/6">🦌 Los renos a prueba
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/6">🦌 Los renos a prueba
 </a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">250</td>
@@ -436,7 +436,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">07</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/7">📦 Las cajas en 3D
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/7">📦 Las cajas en 3D
 </a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">250</td>
@@ -444,7 +444,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">08</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/8">🏬 Ordenando el almacén
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/8">🏬 Ordenando el almacén
 </a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center">250</td>
@@ -452,7 +452,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">09</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/9">🚦 Alterna las luces
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/9">🚦 Alterna las luces
 </a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">250</td>
@@ -460,7 +460,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">10</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/10">🎄 Crea tu propio árbol de navidad
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/10">🎄 Crea tu propio árbol de navidad
 </a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">280</td>
@@ -468,7 +468,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">11</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/11">📖 Los elfos estudiosos
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/11">📖 Los elfos estudiosos
 </a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center">40</td>
@@ -476,7 +476,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">12</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/12">📸 ¿Es una copia válida?
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/12">📸 ¿Es una copia válida?
 </a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center">180</td>
@@ -484,11 +484,40 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">13</td>
-				<td><a href="https://adventjs.dev/es/challenges/2023/13">⌚️ Calculando el tiempo
+				<td><a href="https://2023.adventjs.dev/es/challenges/2023/13">⌚️ Calculando el tiempo
 </a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center">240</td>
 				<td align="center"><a href="./2023/13.md">Ver</a></td>
+			</tr>
+		</tbody>
+</table>
+</details>
+
+
+## 2024
+
+<details>
+  <summary>Retos</summary>
+
+<br/>
+  <table>
+		<thead>
+			<tr>
+				<th>Día</th>
+				<th>Reto</th>
+				<th>Dificultad</th>
+				<th>Puntuación</th>
+				<th>Solución</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">01</td>
+				<td><a href="https://adventjs.dev/es/challenges/2024/1">🎁 ¡Primer regalo repetido!</a></td>
+				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+				<td align="center"><a href="./2024/01.md">Ver</a></td>
 			</tr>
 		</tbody>
 </table>
@@ -504,12 +533,12 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 		<tr>
 			<th>
 				<a href="https://github.com/cosmoart/adventJS" target="_blank" rel="noopener noreferrer">
-					<img src="./assets/adventjs.avif" title="AdventJs"/>
+					<img src="./assets/hero.avif" title="AdventJs"/>
 				</a>
 			</th>
 			<th>
 				<a href="https://github.com/cosmoart/codember" target="_blank" rel="noopener noreferrer">
-					<img src="./assets/codember.avif" title="Codember"/>
+					<img src="./assets/codember.webp" title="Codember"/>
 				</a>
 			</th>
 			<th>
