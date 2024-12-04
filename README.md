@@ -538,7 +538,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">04</td>
-				<td><a href="https://adventjs.dev/es/challenges/2024/4">🏗️ Organizando el inventario
+				<td><a href="https://adventjs.dev/es/challenges/2024/4">🎄 Decorando el árbol de Navidad
 
 </a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
