@@ -68,6 +68,14 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
 				<td align="center"><a href="./2024/06.md">Ver</a></td>
 			</tr>
+			<tr>
+				<td align="center">07</td>
+				<td><a href="https://adventjs.dev/es/challenges/2024/7">👹 El ataque del Grinch
+</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+				<td align="center"><a href="./2024/07.md">Ver</a></td>
+			</tr>
 		</tbody>
 </table>
 </details>
