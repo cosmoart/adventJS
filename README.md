@@ -78,21 +78,21 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">08</td>
-				<td><a href="https://adventjs.dev/es/challenges/2024/7">🦌 La carrera de renos
+				<td><a href="https://adventjs.dev/es/challenges/2024/8">🦌 La carrera de renos
 
 </a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
-				<td align="center"><a href="./2024/07.md">Ver</a></td>
+				<td align="center"><a href="./2024/08.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">09</td>
-				<td><a href="https://adventjs.dev/es/challenges/2024/7">🚂 El tren mágico
+				<td><a href="https://adventjs.dev/es/challenges/2024/9">🚂 El tren mágico
 
 </a></td>
 				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
 				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
-				<td align="center"><a href="./2024/07.md">Ver</a></td>
+				<td align="center"><a href="./2024/09.md">Ver</a></td>
 			</tr>
 		</tbody>
 </table>
