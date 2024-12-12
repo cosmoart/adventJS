@@ -110,7 +110,7 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 
 1. Completa un reto con X estrellas
 2. Completa un reto con X líneas de código.
-3. Completa un reto mientra midudev...
+3. Completa un reto mientras midudev...
 4. Completa un reto en un horario específico.
 5. ???
 6. ???
