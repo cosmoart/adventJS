@@ -111,6 +111,13 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><a href="./2024/12.md">Ver</a></td>
 			</tr>
 			<tr>
+				<td align="center">13</td>
+				<td><a href="https://adventjs.dev/es/challenges/2024/13">🤖 ¿El robot está de vuelta?</a></td>
+				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
+				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+				<td align="center"><a href="./2024/13.md">Ver</a></td>
+			</tr>
+			<tr>
 				<td align="center">14</td>
 				<td><a href="https://adventjs.dev/es/challenges/2024/14">🦌 Acomodando los renos
 </a></td>
