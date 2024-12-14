@@ -103,6 +103,13 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
 				<td align="center"><a href="./2024/11.md">Ver</a></td>
 			</tr>
+			<tr>
+				<td align="center">12</td>
+				<td><a href="https://adventjs.dev/es/challenges/2024/12">💵 ¿Cuánto cuesta el árbol?</a></td>
+				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
+				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+				<td align="center"><a href="./2024/12.md">Ver</a></td>
+			</tr>
 		</tbody>
 </table>
 
