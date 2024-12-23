@@ -119,28 +119,31 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 			</tr>
 			<tr>
 				<td align="center">14</td>
-				<td><a href="https://adventjs.dev/es/challenges/2024/14">🦌 Acomodando los renos
-</a></td>
+				<td><a href="https://adventjs.dev/es/challenges/2024/14">🦌 Acomodando los renos</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
 				<td align="center"><a href="./2024/14.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">15</td>
-				<td><a href="https://adventjs.dev/es/challenges/2024/15">✏️ Dibujando tablas
-</a></td>
+				<td><a href="https://adventjs.dev/es/challenges/2024/15">✏️ Dibujando tablas</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
 				<td align="center"><a href="./2024/15.md">Ver</a></td>
 			</tr>
 			<tr>
 				<td align="center">16</td>
-				<td><a href="https://adventjs.dev/es/challenges/2024/16">❄️ Limpiando la nieve del camino
-
-</a></td>
+				<td><a href="https://adventjs.dev/es/challenges/2024/16">❄️ Limpiando la nieve del camino</a></td>
 				<td align="center"><img src="./assets/Easy.svg" title="Fácil" width="33"/></td>
 				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
 				<td align="center"><a href="./2024/16.md">Ver</a></td>
+			</tr>
+			<tr>
+				<td align="center">17</td>
+				<td><a href="https://adventjs.dev/es/challenges/2024/17">💣 Busca las bombas del Grinch</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+				<td align="center"><a href="./2024/17.md">Ver</a></td>
 			</tr>
 		</tbody>
 </table>
