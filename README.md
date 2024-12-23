@@ -145,6 +145,13 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
 				<td align="center"><a href="./2024/17.md">Ver</a></td>
 			</tr>
+			<tr>
+				<td align="center">18</td>
+				<td><a href="https://adventjs.dev/es/challenges/2024/18">📇 La agenda mágica de Santa</a></td>
+				<td align="center"><img src="./assets/Harder.svg" title="Difícil" width="33"/></td>
+				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+				<td align="center"><a href="./2024/18.md">Ver</a></td>
+			</tr>
 		</tbody>
 </table>
 
