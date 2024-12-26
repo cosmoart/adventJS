@@ -188,6 +188,13 @@ Mis soluciones a los 24 retos navideños de [AdventJS](https://adventjs.dev) hec
 				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
 				<td align="center"><a href="./2024/23.md">Ver</a></td>
 			</tr>
+			<tr>
+				<td align="center">24</td>
+				<td><a href="https://adventjs.dev/es/challenges/2024/24">🪞 Verifica si los árboles son espejos mágicos</a></td>
+				<td align="center"><img src="./assets/Normal.svg" title="Normal" width="33"/></td>
+				<td align="center"><img src="./assets/fiveStars.svg" title="5 Stars" width="140"/></td>
+				<td align="center"><a href="./2024/24.md">Ver</a></td>
+			</tr>
 		</tbody>
 </table>
 
